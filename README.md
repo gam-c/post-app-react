@@ -12,7 +12,7 @@ Este proyecto es una aplicación CRUD básica que permite gestionar una lista de
 ## Requisitos previos
 
 - Node.js (v16 o superior).
-- PostgreSQL (v16.3 o v17.2).
+- PostgreSQL (v17.2).
 - npm o yarn instalado.
 
 ## Instrucciones de instalación
